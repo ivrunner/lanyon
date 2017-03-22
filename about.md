@@ -4,27 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Please feel free to email me with any questions you may have!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a 29 year old Web Designer and Illustrator from Indiana. I have been designing websites and brands since 2009. This site is meant for you to be able to see some of the work I have done and interact with me directly.
 
-There are currently two themes built on Poole:
+My biggest passion is my wife Nicole, and my daughter Hailey.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I started doing web and graphic design with a great friend who I actually met online. Turned out we lived about an hour from each other and both had a passion for creating things. We created numerous web sites and brands together and it is really where I discovered my passion for design. I believe that every business owner should have a quality brand and identity. It is the first thing your customer sees and what they remember you by.
